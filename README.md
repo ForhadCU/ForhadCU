@@ -6,7 +6,17 @@
 <!-- Greetings and Title Name -->
 <!-- Greetings and Title Name -->
 <h1 align="center">Greethings! 👋 I'm Forhad Kashem</h1>
-<h4 align="center">I am a Self-Thought Programmer. <br/>My core skills are Flutter, Android (Java) & React Native. <br/>I am a quick learner and a good debugger. I am always ready to learn and explore latest technology.</h4>
+<!-- <h4 align="center">I am a Self-Thought Programmer. <br/>My core skills are Flutter, Android (Java) & React Native. <br/>I am a quick learner and a good debugger. I am always ready to learn and explore latest technology.</h4> -->
+
+<!-- Desc -->
+<h3><p align = "center"><em>Intern Software Engineer @ <a href="https://agamilabs.com/">AGAMiLabs Private Ltd.</a></br>
+Self-Taught | Flutter | Android | React Native | Java | dart | Python 
+</em></p></h3>
+<p align = "center">
+  <img src = "https://github-readme-streak-stats.herokuapp.com?user=forhadcu&theme=light&hide_border=true" width = 400>
+</p>
+
+<!-- <h3 align="center">to know more: google momshaddinury</h3> -->
 
 <!-- Side image -->
 <img src="https://media.tenor.com/flflC6GFzO8AAAAd/sultan-alrefaei-programmer.gif" align="right" alt="Coding" width="400">
