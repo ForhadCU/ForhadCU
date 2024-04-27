@@ -9,7 +9,7 @@
 <!-- <h4 align="center">I am a Self-Thought Programmer. <br/>My core skills are Flutter, Android (Java) & React Native. <br/>I am a quick learner and a good debugger. I am always ready to learn and explore latest technology.</h4> -->
 
 <!-- Desc -->
-<h3><p align = "center"><em>Former Software Engineer @ <a href="https://agamilabs.com/">AGAMiLabs Private Ltd.</a></br>
+<h3><p align = "center"><em>Former Junior Software Engineer @ <a href="https://agamilabs.com/">AGAMiLabs Private Ltd.</a></br>
 Self-Taught | Flutter | Android | React Native | Java | dart | Python 
 </em></p></h3>
 <p align = "center">
