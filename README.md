@@ -24,7 +24,7 @@ Self-Taught | Flutter | Android | React Native | Java | dart | Python
 
 <p align="left"> <a href="https://twitter.com/forhadkashem" target="blank"><img src="https://img.shields.io/twitter/follow/forhadkashem?logo=twitter&style=for-the-badge" alt="forhadkashem" /></a> </p>
 
-- 🔭 I’m currently working on **Android & iOS App Development**
+- 🔭 I’m currently working on **Web developement with ReactJs**
 
 - 🌱 I’m currently learning **Clean coding skill**
 
