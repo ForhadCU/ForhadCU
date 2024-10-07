@@ -1,8 +1,8 @@
 
 <!-- Master Head -->
-<h1 align="center">
+<!--<h1 align="center">
   <img src="https://www.icodesolution.com/resource/images/mobile-app-development.gif" alt="MasterHead" style="display:block; margin:auto;">
-</h1>
+</h1>-->
 <!-- Greetings and Title Name -->
 <!-- Greetings and Title Name -->
 <!-- <h1 align="center">Greethings! 👋 I'm Forhad Kashem</h1> -->
