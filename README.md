@@ -10,7 +10,7 @@
 
 <!-- Desc -->
 <h3><p align = "center"><em>Former Junior Software Engineer @ <a href="https://agamilabs.com/">AGAMiLabs Private Ltd.</a></br>
-Self-Taught | Flutter | Android | React Native | Java | dart | Python 
+Flexible-Learner | Flutter | Android | Java | dart 
 </em></p></h3>
 <p align = "center">
   <img src = "https://github-readme-streak-stats.herokuapp.com?user=forhadcu&theme=light&hide_border=true" width = 400>
