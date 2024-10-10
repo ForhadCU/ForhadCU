@@ -24,19 +24,19 @@ Flexible-Learner | Flutter | Android | Java | dart
 
 <p align="left"> <a href="https://twitter.com/forhadkashem" target="blank"><img src="https://img.shields.io/twitter/follow/forhadkashem?logo=twitter&style=for-the-badge" alt="forhadkashem" /></a> </p>
 
-- 🔭 I’m currently working on **Web developement with ReactJs**
+- 🔭 I’m currently working on **Flutter Core Development**
 
 - 🌱 I’m currently learning **Clean coding skill**
 
 - 👯 I’m looking to collaborate on **Front-End & Back-End Project**
 
-- 💬 Ask me about **Flutter, Android, Java and React Native**
+- 💬 Ask me about **Flutter, Android, Java, and Dart**
 
 - 📫 How to reach me **kashem.tipo@gmail.com**
 
 <!-- - 📄 Know about my experiences [https://drive.google.com/file/d/1mYDAn5pWAdpCUxAvEkzSEVWf8XBpOQqV/view?usp=share_link](https://drive.google.com/file/d/1mYDAn5pWAdpCUxAvEkzSEVWf8XBpOQqV/view?usp=share_link) -->
 
-- ⚡ Fun fact **Fun would never funny if you knew this before.**
+- ⚡ Fun fact **Fun would never be funny if you knew this before.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
