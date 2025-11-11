@@ -9,8 +9,8 @@
 <!-- <h4 align="center">I am a Self-Thought Programmer. <br/>My core skills are Flutter, Android (Java) & React Native. <br/>I am a quick learner and a good debugger. I am always ready to learn and explore latest technology.</h4> -->
 
 <!-- Desc -->
-<h3><p align = "center"><em>Former Junior Software Engineer @ <a href="https://agamilabs.com/">AGAMiLabs Private Ltd.</a></br>
-Flexible-Learner | Flutter | Android | Java | dart 
+<h3><p align = "center"><em>Software Engineer @ <a href="">FIT Inc, Tokyo, Japan</a></br> <!--<a href="https://agamilabs.com/">AGAMiLabs Private Ltd.</a></br>-->
+Flexible-Learner | Flutter | Android | iOS | Web | Java | dart 
 </em></p></h3>
 <p align = "center">
   <img src = "https://github-readme-streak-stats.herokuapp.com?user=forhadcu&theme=light&hide_border=true" width = 400>
